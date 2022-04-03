@@ -3347,33 +3347,27 @@ Sanksi: *PERMANENT BLOCK*`
             }
             break
 case 'sewa': case 'sewabot': {
-                anu = `┏━━━━━━━━━━━━━━⬣
-┃        〔 SEWA BOT  〕
-┃ 
-┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-┃   ⬣ SEWA + PREM ⬣
-┃⬡ 1 MINGGU : 8K
-┃⬡ 1 BULAN : 18K
-┃⬡ PERMANEN : 25K
-┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-┃       〔 KELEBIHAN BOT 〕
-┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-┃⬡ ON 24 JAM
-┃⬡ RUN DI RDP
-┃⬡ ANTI DELAY 
-┃⬡ ANTILINK
-┃⬡ WELCOME IMAGE
-┃⬡ LEFT
-┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-┃           ⬣〔  SISTEM 〕⬣
-┃⬡ TF - SEND BUKTI - BOT JOIN
-┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-┃⬣━ *PAYMENT* :
-┃ GOPAY
-┃ DANA
-┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
-
-_Bukan Bot_ *_Wibusoft_*👍🏻`
+                anu = `╔══ 🍀 [ 𝙇𝙄𝙎𝙏 𝙎𝙀𝙒𝘼 𝘽𝙊𝙏 ] 🍀
+║ ❏ 𝑺𝑬𝑾𝑨 3 𝑴𝑰𝑵𝑮𝑮𝑼 = 5.000
+║ ❏ 𝑺𝑬𝑾𝑨 1 𝑩𝑼𝑳𝑨𝑵    = 7.500
+║ ❏ 𝑺𝑬𝑾𝑨 𝑷𝑬𝑹𝑴𝑨𝑵𝑬𝑵 = 10.000
+╚══
+╔══ 🍀 [ 𝘽𝙊𝙏 𝙍𝙀𝙉𝙏𝘼𝙇 𝙇𝙄𝙎𝙏 ] 🍀
+║ ❏ 3 𝑾𝑬𝑬𝑲 𝑹𝑬𝑵𝑻 = 2$
+║ ❏ 1 𝑴𝑶𝑶𝑵𝑻𝑯 𝑹𝑬𝑵𝑻 = 3$
+║ ❏ 𝙋𝙀𝙍𝙈𝘼𝙉𝙀𝙉𝙏 𝙍𝙀𝙉𝙏 = 4$
+╚══
+╔══ 🌱 [ 𝙁𝙚𝙖𝙩𝙪𝙧 ] 🌱
+║ ✅ 𝙊𝙣 24 𝙃𝙤𝙪𝙧𝙨
+║ ✅ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙊𝙣/𝙊𝙛𝙛
+║ ✅ 𝘼𝙣𝙩𝙞𝙡𝙞𝙣𝙠
+║ ✅ 𝙁𝙪𝙣 𝙈𝙚𝙣𝙪
+║ ✅ 𝙂𝙖𝙢𝙚 𝙈𝙚𝙣𝙪
+║ ✅ 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙘 𝙆𝙞𝙘𝙠 𝙂𝙧𝙤𝙪𝙥
+║ ✅ 𝘽𝙪𝙞𝙡𝙙 𝙎𝙩𝙞𝙘𝙠𝙚𝙧
+║ ✅ 𝙏𝙖𝙜 𝘼𝙡𝙡 𝙈𝙚𝙢𝙗𝙚𝙧
+║ ✅ 𝘼𝙣𝙙 𝙊𝙩𝙝𝙚𝙧𝙨
+╚══`
                 let button = [{
                                 quickReplyButton: {
                                     displayText: 'Chat Owner Disini',
@@ -3388,11 +3382,12 @@ case 'groupmenu': case 'menugroup': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -3456,11 +3451,12 @@ case 'downloadmenu': case 'menudownload': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -3519,11 +3515,12 @@ case 'searchmenu': case 'menusearch': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -3576,11 +3573,12 @@ case 'randomimagemenu': case 'menurandomimage': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -3668,11 +3666,12 @@ case 'wibumenu': case 'menuwibu': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -3773,11 +3772,12 @@ case 'asupanmenu': case 'menuasupan': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -3835,11 +3835,12 @@ case 'randomtextmenu': case 'menurandomtext': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -3913,11 +3914,12 @@ case 'randommenu': case 'menurandom': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -3978,11 +3980,12 @@ case 'commentmenu': case 'menucomment': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -4028,11 +4031,12 @@ case 'sertifikatmenu': case 'menusertifikat': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -4084,11 +4088,12 @@ case 'textpromenu': case 'menutextpro': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -4210,11 +4215,12 @@ case 'photooxymenu': case 'menuphotooxy': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -4284,11 +4290,12 @@ case 'photomakermenu': case 'menuphotomaker': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -4380,11 +4387,12 @@ case 'stickermenu': case 'stikermenu': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -4461,11 +4469,12 @@ case 'ephotomenu': case 'menuephoto': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -4559,11 +4568,12 @@ case 'funmenu': case 'menufun': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -4621,11 +4631,12 @@ case 'primbonmenu': case 'menuprimbon': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner : ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -4698,11 +4709,12 @@ case 'convertmenu': case 'menuconvert': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -4761,11 +4773,12 @@ case 'mainmenu': case 'menumain': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -4818,11 +4831,12 @@ case 'databasemenu': case 'menudatabase': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -4874,11 +4888,12 @@ case 'anonymousmenu': case 'menuanonymous': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -4927,11 +4942,12 @@ case 'islamicmenu': case 'menuislamic': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -4991,11 +5007,12 @@ case 'voicemenu': case 'menuvoice': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│💠  Prefix : ( ${prefix} )
-│💠  Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│💠  Mode : ${hisoka.public ? 'Public' : 'Self'}
-│💠  Runtime : ${runtime(process.uptime())}
-│💠  Lib : Baileys-md
+│ 💠  Prefix 	: ( ${prefix} )
+│ 💠  Name 	: ${global.namabot}\n
+│ 💠  Owner 	: ${global.namaowner}
+│ 💠  Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠  Runtime 	: ${runtime(process.uptime())}
+│ 💠  Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -5050,11 +5067,12 @@ case 'stalkmenu': case 'menustalk': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -5102,11 +5120,12 @@ case 'ownermenu': case 'menuowner': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ 💠 Prefix 	: ( ${prefix} )
+│ 💠 Name 	: ${global.namabot}\n
+│ 💠 Owner 	: ${global.namaowner}
+│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
+│ 💠 Runtime 	: ${runtime(process.uptime())}
+│ 💠 Lib 	: Baileys-md
 │
 └───────⭓
 
@@ -5212,7 +5231,8 @@ break
 ┌──⭓ 「 INFO BOT 」⭓
 │
 │ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ 💠 Name : ${global.namabot}\n
+│ 💠 Owner : ${global.namaowner}
 │ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
 │ 💠 Runtime : ${runtime(process.uptime())}
 │ 💠 Lib : Baileys-md
@@ -5935,7 +5955,7 @@ break
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
