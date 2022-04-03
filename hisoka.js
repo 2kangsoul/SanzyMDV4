@@ -1,4 +1,4 @@
-/**
+Youtube Creator/**
    * Create By Dika Ardnt.
    * Contact Me on wa.me/6288292024190
    * Follow https://github.com/DikaArdnt
@@ -589,12 +589,12 @@ case 'tqtt': case 'tqto': case 'thanksto': {
 • Wita : ${wita}`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -815,7 +815,7 @@ https://github.com/DikaArdnt/Hisoka-Morou
 https://youtube.com/c/SanzyYT`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: 'https://youtube.com/c/SanzyYT'
                                 }
                             }]
@@ -1472,12 +1472,12 @@ break
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -1511,12 +1511,12 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3419,12 +3419,12 @@ case 'groupmenu': case 'menugroup': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3483,12 +3483,12 @@ case 'downloadmenu': case 'menudownload': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3541,12 +3541,12 @@ case 'searchmenu': case 'menusearch': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3634,12 +3634,12 @@ case 'randomimagemenu': case 'menurandomimage': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3740,12 +3740,12 @@ case 'wibumenu': case 'menuwibu': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3803,12 +3803,12 @@ case 'asupanmenu': case 'menuasupan': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3882,12 +3882,12 @@ case 'randomtextmenu': case 'menurandomtext': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3948,12 +3948,12 @@ case 'randommenu': case 'menurandom': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3999,12 +3999,12 @@ case 'commentmenu': case 'menucomment': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4056,12 +4056,12 @@ case 'sertifikatmenu': case 'menusertifikat': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4183,12 +4183,12 @@ case 'textpromenu': case 'menutextpro': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4258,12 +4258,12 @@ case 'photooxymenu': case 'menuphotooxy': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4355,12 +4355,12 @@ case 'photomakermenu': case 'menuphotomaker': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4437,12 +4437,12 @@ case 'stickermenu': case 'stikermenu': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4536,12 +4536,12 @@ case 'ephotomenu': case 'menuephoto': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4599,12 +4599,12 @@ case 'funmenu': case 'menufun': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4677,12 +4677,12 @@ case 'primbonmenu': case 'menuprimbon': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4741,12 +4741,12 @@ case 'convertmenu': case 'menuconvert': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4798,12 +4798,12 @@ case 'mainmenu': case 'menumain': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4855,12 +4855,12 @@ case 'databasemenu': case 'menudatabase': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4909,12 +4909,12 @@ case 'anonymousmenu': case 'menuanonymous': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4974,12 +4974,12 @@ case 'islamicmenu': case 'menuislamic': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -5034,12 +5034,12 @@ case 'voicemenu': case 'menuvoice': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -5087,12 +5087,12 @@ case 'stalkmenu': case 'menustalk': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -5145,12 +5145,12 @@ case 'ownermenu': case 'menuowner': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -5200,7 +5200,7 @@ Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Ow
                                 }
                             }, {
                                 callButton: {
-                                    displayText: 'Number Phone Owner',
+                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -5950,7 +5950,7 @@ break
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: 'Youtube Creator',
+                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
                                     url: global.myweb
                                 }
                             }, {
