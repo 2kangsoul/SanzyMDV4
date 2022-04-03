@@ -1,4 +1,4 @@
-Youtube Creator/**
+/**
    * Create By Dika Ardnt.
    * Contact Me on wa.me/6288292024190
    * Follow https://github.com/DikaArdnt
@@ -589,12 +589,12 @@ case 'tqtt': case 'tqto': case 'thanksto': {
 • Wita : ${wita}`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -815,7 +815,7 @@ https://github.com/DikaArdnt/Hisoka-Morou
 https://youtube.com/c/SanzyYT`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: 'https://youtube.com/c/SanzyYT'
                                 }
                             }]
@@ -1472,12 +1472,12 @@ break
                     await sleep(1500)
                     let btn = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -1511,12 +1511,12 @@ break
 		    await sleep(1500)
 		    let btn = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3347,27 +3347,33 @@ Sanksi: *PERMANENT BLOCK*`
             }
             break
 case 'sewa': case 'sewabot': {
-                anu = `╔══ 🍀 [ 𝙇𝙄𝙎𝙏 𝙎𝙀𝙒𝘼 𝘽𝙊𝙏 ] 🍀
-║ ❏ 𝑺𝑬𝑾𝑨 3 𝑴𝑰𝑵𝑮𝑮𝑼 = 5.000
-║ ❏ 𝑺𝑬𝑾𝑨 1 𝑩𝑼𝑳𝑨𝑵    = 7.500
-║ ❏ 𝑺𝑬𝑾𝑨 𝑷𝑬𝑹𝑴𝑨𝑵𝑬𝑵 = 10.000
-╚══
-╔══ 🍀 [ 𝘽𝙊𝙏 𝙍𝙀𝙉𝙏𝘼𝙇 𝙇𝙄𝙎𝙏 ] 🍀
-║ ❏ 3 𝑾𝑬𝑬𝑲 𝑹𝑬𝑵𝑻 = 2$
-║ ❏ 1 𝑴𝑶𝑶𝑵𝑻𝑯 𝑹𝑬𝑵𝑻 = 3$
-║ ❏ 𝙋𝙀𝙍𝙈𝘼𝙉𝙀𝙉𝙏 𝙍𝙀𝙉𝙏 = 4$
-╚══
-╔══ 🌱 [ 𝙁𝙚𝙖𝙩𝙪𝙧 ] 🌱
-║ ✅ 𝙊𝙣 24 𝙃𝙤𝙪𝙧𝙨
-║ ✅ 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙊𝙣/𝙊𝙛𝙛
-║ ✅ 𝘼𝙣𝙩𝙞𝙡𝙞𝙣𝙠
-║ ✅ 𝙁𝙪𝙣 𝙈𝙚𝙣𝙪
-║ ✅ 𝙂𝙖𝙢𝙚 𝙈𝙚𝙣𝙪
-║ ✅ 𝘼𝙪𝙩𝙤𝙢𝙖𝙩𝙞𝙘 𝙆𝙞𝙘𝙠 𝙂𝙧𝙤𝙪𝙥
-║ ✅ 𝘽𝙪𝙞𝙡𝙙 𝙎𝙩𝙞𝙘𝙠𝙚𝙧
-║ ✅ 𝙏𝙖𝙜 𝘼𝙡𝙡 𝙈𝙚𝙢𝙗𝙚𝙧
-║ ✅ 𝘼𝙣𝙙 𝙊𝙩𝙝𝙚𝙧𝙨
-╚══`
+                anu = `┏━━━━━━━━━━━━━━⬣
+┃        〔 SEWA BOT  〕
+┃ 
+┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+┃   ⬣ SEWA + PREM ⬣
+┃⬡ 1 MINGGU : 8K
+┃⬡ 1 BULAN : 18K
+┃⬡ PERMANEN : 25K
+┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+┃       〔 KELEBIHAN BOT 〕
+┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+┃⬡ ON 24 JAM
+┃⬡ RUN DI RDP
+┃⬡ ANTI DELAY 
+┃⬡ ANTILINK
+┃⬡ WELCOME IMAGE
+┃⬡ LEFT
+┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+┃           ⬣〔  SISTEM 〕⬣
+┃⬡ TF - SEND BUKTI - BOT JOIN
+┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+┃⬣━ *PAYMENT* :
+┃ GOPAY
+┃ DANA
+┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+
+_Bukan Bot_ *_Wibusoft_*👍🏻`
                 let button = [{
                                 quickReplyButton: {
                                     displayText: 'Chat Owner Disini',
@@ -3382,12 +3388,11 @@ case 'groupmenu': case 'menugroup': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -3419,12 +3424,12 @@ case 'groupmenu': case 'menugroup': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3451,12 +3456,11 @@ case 'downloadmenu': case 'menudownload': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -3483,12 +3487,12 @@ case 'downloadmenu': case 'menudownload': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3515,12 +3519,11 @@ case 'searchmenu': case 'menusearch': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -3541,12 +3544,12 @@ case 'searchmenu': case 'menusearch': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3573,12 +3576,11 @@ case 'randomimagemenu': case 'menurandomimage': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -3634,12 +3636,12 @@ case 'randomimagemenu': case 'menurandomimage': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3666,12 +3668,11 @@ case 'wibumenu': case 'menuwibu': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -3740,12 +3741,12 @@ case 'wibumenu': case 'menuwibu': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3772,12 +3773,11 @@ case 'asupanmenu': case 'menuasupan': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -3803,12 +3803,12 @@ case 'asupanmenu': case 'menuasupan': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3835,12 +3835,11 @@ case 'randomtextmenu': case 'menurandomtext': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -3882,12 +3881,12 @@ case 'randomtextmenu': case 'menurandomtext': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3914,12 +3913,11 @@ case 'randommenu': case 'menurandom': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -3948,12 +3946,12 @@ case 'randommenu': case 'menurandom': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -3980,12 +3978,11 @@ case 'commentmenu': case 'menucomment': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -3999,12 +3996,12 @@ case 'commentmenu': case 'menucomment': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4031,12 +4028,11 @@ case 'sertifikatmenu': case 'menusertifikat': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -4056,12 +4052,12 @@ case 'sertifikatmenu': case 'menusertifikat': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4088,12 +4084,11 @@ case 'textpromenu': case 'menutextpro': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -4183,12 +4178,12 @@ case 'textpromenu': case 'menutextpro': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4215,12 +4210,11 @@ case 'photooxymenu': case 'menuphotooxy': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -4258,12 +4252,12 @@ case 'photooxymenu': case 'menuphotooxy': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4290,12 +4284,11 @@ case 'photomakermenu': case 'menuphotomaker': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -4355,12 +4348,12 @@ case 'photomakermenu': case 'menuphotomaker': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4387,12 +4380,11 @@ case 'stickermenu': case 'stikermenu': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -4437,12 +4429,12 @@ case 'stickermenu': case 'stikermenu': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4469,12 +4461,11 @@ case 'ephotomenu': case 'menuephoto': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -4536,12 +4527,12 @@ case 'ephotomenu': case 'menuephoto': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4568,12 +4559,11 @@ case 'funmenu': case 'menufun': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -4599,12 +4589,12 @@ case 'funmenu': case 'menufun': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4631,12 +4621,11 @@ case 'primbonmenu': case 'menuprimbon': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner : ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -4677,12 +4666,12 @@ case 'primbonmenu': case 'menuprimbon': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4709,12 +4698,11 @@ case 'convertmenu': case 'menuconvert': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -4741,12 +4729,12 @@ case 'convertmenu': case 'menuconvert': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4773,12 +4761,11 @@ case 'mainmenu': case 'menumain': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -4798,12 +4785,12 @@ case 'mainmenu': case 'menumain': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4831,12 +4818,11 @@ case 'databasemenu': case 'menudatabase': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -4855,12 +4841,12 @@ case 'databasemenu': case 'menudatabase': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4888,12 +4874,11 @@ case 'anonymousmenu': case 'menuanonymous': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -4909,12 +4894,12 @@ case 'anonymousmenu': case 'menuanonymous': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -4942,12 +4927,11 @@ case 'islamicmenu': case 'menuislamic': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -4974,12 +4958,12 @@ case 'islamicmenu': case 'menuislamic': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -5007,12 +4991,11 @@ case 'voicemenu': case 'menuvoice': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠  Prefix 	: ( ${prefix} )
-│ 💠  Name 	: ${global.namabot}\n
-│ 💠  Owner 	: ${global.namaowner}
-│ 💠  Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠  Runtime 	: ${runtime(process.uptime())}
-│ 💠  Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -5034,12 +5017,12 @@ case 'voicemenu': case 'menuvoice': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -5067,12 +5050,11 @@ case 'stalkmenu': case 'menustalk': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -5087,12 +5069,12 @@ case 'stalkmenu': case 'menustalk': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -5120,12 +5102,11 @@ case 'ownermenu': case 'menuowner': {
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix 	: ( ${prefix} )
-│ 💠 Name 	: ${global.namabot}\n
-│ 💠 Owner 	: ${global.namaowner}
-│ 💠 Mode 	: ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime 	: ${runtime(process.uptime())}
-│ 💠 Lib 	: Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -5145,12 +5126,12 @@ case 'ownermenu': case 'menuowner': {
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -5179,13 +5160,13 @@ Saya ${global.namabot}, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Owner Agar Segera Di Perbaiki🙏
 
 
-🌀 Library : *Baileys-MD*.
-🌀 Prefix : ( ${prefix} )
-🌀 Waktu Server : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}
-🌀 Tanggal Server : ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
-🌀 Wib : ${wib}
-🌀 Wit : ${wit}
-🌀 Wita : ${wita}`
+• Library : *Baileys-MD*.
+• Prefix : ( ${prefix} )
+• Waktu Server : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}
+• Tanggal Server : ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
+• Wib : ${wib}
+• Wit : ${wit}
+• Wita : ${wita}`
                 const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                     templateMessage: {
                         hydratedTemplate: {
@@ -5195,12 +5176,12 @@ Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Ow
                             hydratedFooterText: `© ${global.namabot}`,
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
@@ -5230,12 +5211,11 @@ break
 
 ┌──⭓ 「 INFO BOT 」⭓
 │
-│ 💠 Prefix : ( ${prefix} )
-│ 💠 Name : ${global.namabot}\n
-│ 💠 Owner : ${global.namaowner}
-│ 💠 Mode : ${hisoka.public ? 'Public' : 'Self'}
-│ 💠 Runtime : ${runtime(process.uptime())}
-│ 💠 Lib : Baileys-md
+│ Prefix : ( ${prefix} )
+│ Name : ${global.namabot}\n│ Owner : ${global.namaowner}
+│ Mode : ${hisoka.public ? 'Public' : 'Self'}
+│ Runtime : ${runtime(process.uptime())}
+│ Lib : Baileys-md
 │
 └───────⭓
 
@@ -5950,12 +5930,12 @@ break
 └───────⭓`
                 let button = [{
                                 urlButton: {
-                                    displayText: '𝑴𝒚 𝒊𝒏𝒔𝒕𝒂𝒈𝒓𝒂𝒎',
+                                    displayText: 'Youtube Creator',
                                     url: global.myweb
                                 }
                             }, {
                                 callButton: {
-                                    displayText: '𝑪𝒂𝒍𝒍 𝑵𝒖𝒎𝒃𝒆𝒓 𝑶𝒘𝒏𝒆𝒓',
+                                    displayText: 'Number Phone Owner',
                                     phoneNumber: global.owner[0]
                                 }
                             }, {
